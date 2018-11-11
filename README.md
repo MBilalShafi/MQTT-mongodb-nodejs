@@ -1,2 +1,2 @@
-# Node-CRUD-App
-A basic CRUD app built with Node.js
+# MQTT Mongodb Node
+A Node app subscribed to MQTT Mosquitto server and saves MQTT records to MongoDB database
